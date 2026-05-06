@@ -1,4 +1,4 @@
-#  Image Dataset Distribution Analyzer
+# Image Dataset Distribution Analyzer
 
 A Python utility for analyzing and summarizing image distribution across original and augmented medical imaging datasets.
 
@@ -65,8 +65,8 @@ dataset_root/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/dataset-image-distribution-analyzer.git
-cd dataset-image-distribution-analyzer
+git clone https://github.com/goapu/Image-Dataset-Distribution-Analyzer.git
+cd Image-Dataset-Distribution-Analyzer
 ```
 
 ### Install Dependencies
